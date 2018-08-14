@@ -89,3 +89,15 @@ li{
   .floatleft{
       float: left;
   }
+
+  a:hover{
+      color: red;
+  }
+
+  a:active{
+      color: yellow;
+  }
+
+  a:visited{
+      color: green;
+  }
