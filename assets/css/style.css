@@ -84,7 +84,7 @@ h4{
 }
 
 p{
-    margin-bottom: 3px;
+    margin-bottom: 1.15em;
 }
 
 .img1{
@@ -92,7 +92,7 @@ p{
     height:130px;
     width:15%;
     padding: 2px;
-   margin:5px;
+    margin-right: 2px;
    top:0;
 }
 
@@ -163,17 +163,16 @@ ul{
 
 
 
+a:visited{
+      color: green;
+  }
+
   a:hover{
       color: red;
   }
 
-  a:active{
-      color: yellow;
-  }
-
-  a:visited{
-      color: green;
-  }
+  
+  
 
   #submit{
       color:white;
