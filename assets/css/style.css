@@ -5,13 +5,12 @@
     box-sizing: border-box;
     color: #777777;
     line-height: 1.25;
+     
 }
 
-body{
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/vintage-concrete.png");
+ body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/16/63/0358257bd48f668.jpg"); 
     font-size: 18px;
-   
-
 }
 
 .container{
@@ -82,6 +81,10 @@ h4{
     text-align: center;
 
 
+}
+
+p{
+    margin-bottom: 3px;
 }
 
 .img1{
@@ -177,7 +180,7 @@ ul{
       background-color: teal;
       margin-top: 10px;
       padding:0 20px;
-           
+         
   }
 
   #message{
@@ -185,5 +188,5 @@ ul{
       height: 70px;
       padding:0;
       size:100px;
-
+      
   }
